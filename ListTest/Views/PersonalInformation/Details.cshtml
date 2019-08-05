@@ -1,0 +1,48 @@
+﻿@model ViewModel.PersonalInformationModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+@if (ViewBag.DetailsError == null)
+{
+    <div>
+        <h4>PersonalInformationModel</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.EnglishName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.EnglishName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.BanglaName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BanglaName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Departments.DepartmentName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Departments.DepartmentName)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+
+    <h1>@ViewBag.DetailsError</h1>
+
+

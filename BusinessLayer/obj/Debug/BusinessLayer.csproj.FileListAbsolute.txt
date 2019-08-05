@@ -1,0 +1,17 @@
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\DataLayer.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\ViewModel.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\ViewModel.pdb
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\AspWork\ListAppend\ListTest\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\AspWork\ListAppend\ListTest\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\AspWork\ListAppend\ListTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\AspWork\ListAppend\ListTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\AspWork\ListAppend\ListTest\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\AspWork\ListAppend\ListTest\BusinessLayer\obj\Debug\BusinessLayer.pdb
