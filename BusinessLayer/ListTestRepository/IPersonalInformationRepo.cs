@@ -13,5 +13,7 @@ namespace BusinessLayer.ListTestRepository
         PersonalInformationModel GetPersonalInformationById(int id);
         bool SavePersonalInformation(PersonalInformationModel personalInformationModel);
         bool UpdatePersonalInformation(PersonalInformationModel personalInformationModel);
+        bool DeletePersonalInformation(int id);
+    
     }
 }

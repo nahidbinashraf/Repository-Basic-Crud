@@ -11,6 +11,7 @@ namespace BusinessLayer.ListTestRepositoryImpl
     {
         DataSet _dbContext = new DataSet();
 
+       
         public IEnumerable<PersonalInformationModel> GetPersonalInformation()
         {
 
@@ -114,5 +115,26 @@ namespace BusinessLayer.ListTestRepositoryImpl
             }
 
         }
+        public bool DeletePersonalInformation(int id)
+        {
+            try
+            {
+                var persoanlInformation = _dbContext.PersonalInformations.Find(id);
+                _dbContext.PersonalInformations.Remove(persoanlInformation);
+                var department = _dbContext.Departments.Find(persoanlInformation.DepartmentId);
+                _dbContext.Departments.Remove(department);
+                _dbContext.SaveChanges();
+                return true;
+            }
+ 
+            catch(Exception ex)
+            {
+                string msg = ex.Message;
+                return false;
+            }
+          
+            
+        }
+
     }
 }

@@ -95,5 +95,26 @@ namespace ListTest.Controllers
             }
             return View();
         }
+
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+            if (id > 0)
+            {
+               bool delete =  _personalInformationRepo.DeletePersonalInformation(id);
+                if (delete)
+                {
+                    TempData["PersonalInformationDelete"] = "Successfully Delete";
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    TempData["PersonalInformationDelete"] = "Not Delete";
+                    return RedirectToAction("Index");
+                }
+              
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
