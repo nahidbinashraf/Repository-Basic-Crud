@@ -16,11 +16,11 @@ D:\AspWork\ListAppend\ListTest\DataLayer\bin\Debug\EntityFramework.dll
 D:\AspWork\ListAppend\ListTest\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
 D:\AspWork\ListAppend\ListTest\DataLayer\bin\Debug\EntityFramework.xml
 D:\AspWork\ListAppend\ListTest\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.Migrations.InitialCreate.resources
+D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.Migrations.update.resources
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.dll
 D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.pdb
-D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
-D:\AspWork\ListAppend\ListTest\DataLayer\obj\Debug\DataLayer.Migrations.update.resources

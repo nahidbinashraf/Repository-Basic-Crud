@@ -85,6 +85,8 @@ D:\AspWork\ListAppend\ListTest\ListTest\bin\roslyn\VBCSCompiler.exe
 D:\AspWork\ListAppend\ListTest\ListTest\bin\roslyn\VBCSCompiler.exe.config
 D:\AspWork\ListAppend\ListTest\ListTest\bin\Antlr3.Runtime.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\BusinessLayer.dll
+D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.dll
+D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.SqlServer.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\Microsoft.Web.Infrastructure.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\Newtonsoft.Json.dll
@@ -98,10 +100,11 @@ D:\AspWork\ListAppend\ListTest\ListTest\bin\System.Web.WebPages.Razor.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\ViewModel.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\WebGrease.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\DataLayer.dll
-D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.dll
 D:\AspWork\ListAppend\ListTest\ListTest\bin\BusinessLayer.pdb
 D:\AspWork\ListAppend\ListTest\ListTest\bin\BusinessLayer.dll.config
 D:\AspWork\ListAppend\ListTest\ListTest\bin\ViewModel.pdb
+D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.xml
+D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.SqlServer.xml
 D:\AspWork\ListAppend\ListTest\ListTest\bin\System.Web.Helpers.xml
 D:\AspWork\ListAppend\ListTest\ListTest\bin\System.Web.Mvc.xml
 D:\AspWork\ListAppend\ListTest\ListTest\bin\System.Web.Optimization.xml
@@ -114,7 +117,6 @@ D:\AspWork\ListAppend\ListTest\ListTest\bin\Antlr3.Runtime.pdb
 D:\AspWork\ListAppend\ListTest\ListTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\AspWork\ListAppend\ListTest\ListTest\bin\DataLayer.pdb
 D:\AspWork\ListAppend\ListTest\ListTest\bin\DataLayer.dll.config
-D:\AspWork\ListAppend\ListTest\ListTest\bin\EntityFramework.xml
 D:\AspWork\ListAppend\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
 D:\AspWork\ListAppend\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
 D:\AspWork\ListAppend\ListTest\ListTest\obj\Debug\ListTest.csproj.CopyComplete

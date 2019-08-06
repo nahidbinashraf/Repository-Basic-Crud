@@ -1,6 +1,5 @@
 D:\AspWork\ListAppend\ListTest\ViewModel\bin\Debug\ViewModel.dll
 D:\AspWork\ListAppend\ListTest\ViewModel\bin\Debug\ViewModel.pdb
-D:\AspWork\ListAppend\ListTest\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
 D:\AspWork\ListAppend\ListTest\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
 D:\AspWork\ListAppend\ListTest\ViewModel\obj\Debug\ViewModel.dll
 D:\AspWork\ListAppend\ListTest\ViewModel\obj\Debug\ViewModel.pdb
